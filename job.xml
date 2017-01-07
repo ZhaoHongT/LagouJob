@@ -1,0 +1,34 @@
+<joblist>
+    <type name="技术">
+        <!--<job parameter="数据挖掘">数据挖掘</job>-->
+        <!--<job parameter="Java">Java</job>-->
+        <!--<job parameter="PHP">PHP</job>-->
+        <!--<job parameter="Python">Python</job>-->
+        <!--<job parameter="Hadoop">Hadoop</job>-->
+        <!--<job parameter="搜索算法">搜索算法</job>-->
+        <!--<job parameter="精准推荐">精准推荐</job>-->
+        <!--<job parameter="HTML5">HTML5</job>-->
+        <!--<job parameter="Android">Android</job>-->
+        <!--<job parameter="iOS">iOS</job>-->
+        <job parameter="数据运营">数据运营</job>
+        <!--<job parameter="架构师">架构师</job>-->
+    </type>
+
+    <!--<type name="金融">
+        <job parameter="分析师">分析师</job>
+        <job parameter="融资">融资</job>
+        <job parameter="并购">并购</job>
+        <job parameter="交易员">交易员</job>
+        <job parameter="行业研究">行业研究</job>
+        <job parameter="风控">风控</job>
+        <job parameter="资信评估">资信评估</job>
+        <job parameter="审计">审计</job>
+        <job parameter="投资总监">投资总监</job>
+        <job parameter="融资总监">融资总监</job>
+        <job parameter="并购总监">并购总监</job>
+        <job parameter="风控总监">风控总监</job>
+        <job parameter="会计">会计</job>
+        <job parameter="理财顾问">理财顾问</job>
+    </type>-->
+
+</joblist>
