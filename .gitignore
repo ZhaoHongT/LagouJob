@@ -1,4 +1,5 @@
 .idea
 entity/__pycache__/
 util/__pycache__/
+data/*
 util/info.log

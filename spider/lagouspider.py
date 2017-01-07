@@ -6,6 +6,9 @@ import time
 
 import requests
 
+import sys
+sys.path.append('./')
+
 from util import toolkit
 from util import excelhelper
 
